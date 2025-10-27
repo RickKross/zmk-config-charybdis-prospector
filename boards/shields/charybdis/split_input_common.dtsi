@@ -17,7 +17,7 @@
 		status = "disabled"; // overridden on central
 		device = <&trackball_split>;
 
-		input-processors = <&zip_xy_scaler 5 5>;
+		input-processors = <&zip_xy_scaler 6 6>;
 
 		/* layer-8 scroll override */
 		scroller: scroller {
